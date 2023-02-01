@@ -12,6 +12,6 @@ Coursework group project of Game Design and Development. The game Pepe Adventure
 See [game design documentation](https://drive.google.com/file/d/1ju2acnCqeMNn7kyUkPJIPxreb0v5REkV/view?usp=share_link)
 
 ## Presentation and Demonstration
-Watch presentation and gameplay demonstration
+Watch presentation and gameplay demonstration:
 - [Prototype Release](https://youtu.be/ec8zr1XRIeU)
 - [Content Increment](https://youtu.be/91Ce_2WKklc)
